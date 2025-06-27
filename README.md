@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Fault Diagnosis Agent
 
 An intelligent, conversational AI agent designed to diagnose real-world system faults. This application leverages local large language models via Ollama to provide structured, actionable advice in a familiar, chat-based interface.
@@ -90,3 +91,6 @@ npm start
 ```
 
 This will launch the Vite development server. Your default browser should open to `http://localhost:3000`, and you can start using the AI Fault Diagnosis Agent.
+=======
+# AI-Fault-Diagnosis-Agent
+>>>>>>> b6ed516beecaf4419cdaccec70612460a1b7d69e
