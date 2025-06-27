@@ -1,0 +1,6 @@
+{
+  "name": "AI Fault Diagnosis Agent",
+  "description": "An intelligent AI agent that diagnoses real-world system faults, suggests fixes, and learns from user feedback.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
