@@ -3,7 +3,7 @@
 
 An intelligent, conversational AI agent designed to diagnose real-world system faults. This application leverages local large language models via Ollama to provide structured, actionable advice in a familiar, chat-based interface.
 
-![AI Fault Diagnosis Agent Screenshot](![image](https://github.com/user-attachments/assets/5340d234-180b-4b1f-9e4f-53bf30d94288)
+![AI Fault Diagnosis Agent Screenshot](![image](screenshot.png)
 )
 
 
